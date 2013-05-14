@@ -5,7 +5,7 @@
     };
 
     var addSix = function (number) {
-        return number + 5;
+        return number + 5; // this will cause the test to fail
     };
 
     var addSeven = function (number) {
